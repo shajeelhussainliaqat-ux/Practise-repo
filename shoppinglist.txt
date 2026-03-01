@@ -1,0 +1,6 @@
+clothes
+jeans
+shirts
+shoes
+watch
+jacket
